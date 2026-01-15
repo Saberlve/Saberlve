@@ -18,19 +18,19 @@
 <table>
   <tr>
     <td align="center">
-      <b>Affiliation</b><br/>
-      ZJU CS (M.Eng.)<br/>
-      HIT B.Eng.
+      <kbd>Affiliation</kbd><br/>
+      <code>ZJU CS (M.Eng.)</code><br/>
+      <code>HIT B.Eng.</code>
     </td>
     <td align="center">
-      <b>Focus</b><br/>
-      Embodied AI<br/>
-      VLM / VLA
+      <kbd>Focus</kbd><br/>
+      <code>Embodied AI</code><br/>
+      <code>VLM / VLA</code>
     </td>
     <td align="center">
-      <b>Intent</b><br/>
-      Perception -> Reasoning -> Action<br/>
-      Safe, data-efficient autonomy
+      <kbd>Intent</kbd><br/>
+      <code>Perception -> Reasoning -> Action</code><br/>
+      <code>Safe, data-efficient autonomy</code>
     </td>
   </tr>
 </table>
@@ -80,8 +80,14 @@ If you want to showcase specific repos with live cards, uncomment and replace RE
 
 I'm open to research collaborations and discussion. If you're working on Embodied AI, VLA, or robotics platforms, I'd love to connect.
 
-- Email: [saberlve9@gmail.com](mailto:saberlve9@gmail.com)
-- GitHub: [github.com/Saberlve](https://github.com/Saberlve)
+<p>
+  <a href="mailto:saberlve9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saberlve9%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Saberlve">
+    <img src="https://img.shields.io/badge/GitHub-Saberlve-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
