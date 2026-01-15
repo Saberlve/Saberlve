@@ -1,33 +1,39 @@
 <div align="center">
 
-# Hi, I'm Shuxun Wang (王树勋) 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b0f1a,100:1d4ed8&text=Embodied%20AI%20%7C%20VLM%20%7C%20VLA&fontColor=e2e8f0&fontSize=28&fontAlignY=35&animation=fadeIn" alt="Embodied AI banner" />
+
+# Hi, I'm Shuxun Wang
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Embodied+Intelligence+%E2%86%92+Robotics+%E2%86%92+Autonomy;Vision-Language-Action+Systems;Learning+Policies+for+Real-World+Agents" alt="Typing animation" />
 
 **Incoming M.Eng. @ Zhejiang University (Computer Science)**  
-**Research focus: Embodied Intelligence · Vision-Language-Action (VLA)**
+**Research focus: Embodied Intelligence - Vision-Language-Action (VLA)**
 
 <p>
   <a href="https://www.cs.zju.edu.cn/english/">
-    <img src="assets/zju-logo.svg" width="120" alt="Zhejiang University logo" />
+    <img src="assets/zju-logo-512px.png" width="120" alt="Zhejiang University logo" />
   </a>
 </p>
 
-<p>
-  <a href="https://www.cs.zju.edu.cn/english/">
-    <img src="https://img.shields.io/badge/Zhejiang%20University-CS-0957d0?style=for-the-badge&logo=academia&logoColor=white" alt="Zhejiang University" />
-  </a>
-  <a href="http://en.hit.edu.cn/">
-    <img src="https://img.shields.io/badge/HIT-Alumnus-0066cc?style=for-the-badge" alt="HIT" />
-  </a>
-  <a href="#research-directions-i-care-about">
-    <img src="https://img.shields.io/badge/Focus-Embodied_AI_%7C_VLA-0b7?style=for-the-badge" alt="Research focus" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AI_Researcher-Embodied_Intelligence-0f172a?style=flat-square" alt="AI Researcher" />
-  <img src="https://img.shields.io/badge/Robotics-Perception%20%7C%20Reasoning%20%7C%20Action-1d4ed8?style=flat-square" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Multimodal-Vision%20%2B%20Language%20%2B%20Action-0ea5e9?style=flat-square" alt="Multimodal" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Affiliation</b><br/>
+      ZJU CS (M.Eng.)<br/>
+      HIT B.Eng.
+    </td>
+    <td align="center">
+      <b>Focus</b><br/>
+      Embodied AI<br/>
+      VLM / VLA
+    </td>
+    <td align="center">
+      <b>Intent</b><br/>
+      Perception -> Reasoning -> Action<br/>
+      Safe, data-efficient autonomy
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -35,7 +41,7 @@
 
 ## About me
 
-I'm a research-oriented engineer and incoming graduate student at Zhejiang University (ZJU) CS. My work and interests center around building generalist robot learners that can perceive, reason, and act from multimodal inputs — bridging vision, language, and action for real-world autonomy.
+I'm a research-oriented engineer and incoming graduate student at Zhejiang University (ZJU) CS. My work and interests center around building generalist robot learners that can perceive, reason, and act from multimodal inputs - bridging vision, language, and action for real-world autonomy.
 
 - Interests: Embodied AI, Vision-Language(-Action) Models, Interactive Reasoning, Policy Learning, Robot Manipulation
 - Methods: Multimodal representation learning, RL/IL/BC, diffusion policies, model-based planning, long-horizon task decomposition
@@ -52,8 +58,8 @@ Currently I'm learning and pivoting into VLA/Embodied AI. Previously, I worked o
 
 ## Education
 
-- Zhejiang University, College of Computer Science and Technology — M.Eng. (incoming)
-- Harbin Institute of Technology — B.Eng.
+- Zhejiang University, College of Computer Science and Technology - M.Eng. (incoming)
+- Harbin Institute of Technology - B.Eng.
 
 ## Previously: NLP & LLM (brief)
 
@@ -70,21 +76,13 @@ If you want to showcase specific repos with live cards, uncomment and replace RE
 -->
 
 
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saberlve&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saberlve&layout=compact&langs_count=8&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saberlve&theme=default&hide_border=true)
-
-
 ## Get in touch
 
 I'm open to research collaborations and discussion. If you're working on Embodied AI, VLA, or robotics platforms, I'd love to connect.
 
 - Email: [saberlve9@gmail.com](mailto:saberlve9@gmail.com)
-- GitHub: [github.com/Saberlve](https://github.com/Saberlve) -->
+- GitHub: [github.com/Saberlve](https://github.com/Saberlve)
 
 ---
 
-Thanks for visiting — if anything here resonates, feel free to star relevant repos or drop me a message. Let's build reliable embodied agents together.
+Thanks for visiting - if anything here resonates, feel free to star relevant repos or drop me a message. Let's build reliable embodied agents together.
