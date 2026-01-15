@@ -18,19 +18,19 @@
 <table>
   <tr>
     <td align="center">
-      <kbd>Affiliation</kbd><br/>
-      <code>ZJU CS (M.Eng.)</code><br/>
-      <code>HIT B.Eng.</code>
+      <b>Affiliation</b><br/>
+      ZJU CS (M.Eng.)<br/>
+      HIT B.Eng.
     </td>
     <td align="center">
-      <kbd>Focus</kbd><br/>
-      <code>Embodied AI</code><br/>
-      <code>VLM / VLA</code>
+      <b>Focus</b><br/>
+      Embodied AI<br/>
+      VLM / VLA
     </td>
     <td align="center">
-      <kbd>Intent</kbd><br/>
-      <code>Perception -> Reasoning -> Action</code><br/>
-      <code>Safe, data-efficient autonomy</code>
+      <b>Intent</b><br/>
+      Perception -> Reasoning -> Action<br/>
+      Safe, data-efficient autonomy
     </td>
   </tr>
 </table>
@@ -82,10 +82,10 @@ I'm open to research collaborations and discussion. If you're working on Embodie
 
 <p>
   <a href="mailto:saberlve9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saberlve9%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="26" alt="Gmail" />
   </a>
   <a href="https://github.com/Saberlve">
-    <img src="https://img.shields.io/badge/GitHub-Saberlve-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/0f172a" height="26" alt="GitHub" />
   </a>
 </p>
 
